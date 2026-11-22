@@ -1,1 +1,1 @@
-Deployment Target: Staging
+Deployment Target: Staging (production after approval)
