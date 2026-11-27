@@ -1,0 +1,1 @@
+A code review is a review by peers to catch bugs and keep code clean before merging. An FCA is an official, strict audit with sign off to prove the system meet its requirements. A PCA is an audit that checks if the system matches it records. 

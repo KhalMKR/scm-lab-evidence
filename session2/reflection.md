@@ -1,0 +1,5 @@
+Q1. Issues help identify and track the intended changes. Pull requests link those changes directly to their issues to isolate andd record each of those changes. Having both creates an auditable trail, which ensures that these changes are deliberate, documented and reversible rather than ad hoc.
+
+Q2. A merge conflict happens when two branches modify the same lines of the same file independently and Git is unable to decide which between those changes to take automatically. To reduce such conflicts, the team has to make their updates and merge frequently.
+
+Q3. Merging directly into main can cause bugs and errors bypass review to come into the main codebase unnoticed.Traceability weakens because changes are not reviewed and discussed. Main becomes less trustworthy as a clean, releasable baseline.
